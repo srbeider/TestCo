@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tim.png</Source>
+      <Name>Tim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\Tim.xnb</Output>
+      <Time>2012-12-19T23:14:08.5856248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>capa_paret.png</Source>
+      <Name>capa_paret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\capa_paret.xnb</Output>
+      <Time>2012-12-19T23:39:55.8174415+01:00</Time>
+    </Item>
+    <Item>
+      <Source>capa_terra.png</Source>
+      <Name>capa_terra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>MGTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\capa_terra.xnb</Output>
+      <Time>2012-12-19T23:39:55.8330415+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{95CD10CF-D720-4B1D-8220-C1E66D2F7E49}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Android</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\GitHub\Alumina\Content\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\GitHub\Alumina\Content\ContentBuilder\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\GitHub\Alumina\Content\ContentBuilder\obj\Android\</IntermediateDirectory>
+      <OutputDirectory>C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2012-10-15T23:02:58+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-19T20:08:16.487237+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
