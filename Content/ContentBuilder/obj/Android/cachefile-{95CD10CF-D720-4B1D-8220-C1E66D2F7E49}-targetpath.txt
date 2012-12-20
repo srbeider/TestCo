@@ -2,7 +2,9 @@ Content\Tim.xnb
 Content\capa_paret.xnb
 Content\capa_terra.xnb
 Content\fons.xnb
+Content\console.xnb
 Content\Tim.png
 Content\capa_paret.png
 Content\capa_terra.png
 Content\fons.png
+Content\console.spritefont

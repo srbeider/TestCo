@@ -37,6 +37,15 @@
       <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\fons.xnb</Output>
       <Time>2012-12-20T19:28:53.5775307+01:00</Time>
     </Item>
+    <Item>
+      <Source>console.spritefont</Source>
+      <Name>console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>MGSpriteFontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\console.xnb</Output>
+      <Time>2012-12-20T19:45:47.0416114+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{95CD10CF-D720-4B1D-8220-C1E66D2F7E49}</ContentProjectGUID>

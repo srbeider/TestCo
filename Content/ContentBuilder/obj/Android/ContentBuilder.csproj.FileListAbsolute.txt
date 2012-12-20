@@ -20,3 +20,5 @@ C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\fons.png
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\ContentBuilder.exe
 C:\GitHub\TestCo\Content\ContentBuilder\obj\Android\ResolveAssemblyReference.cache
 C:\GitHub\TestCo\Content\ContentBuilder\obj\Android\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\console.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\console.spritefont

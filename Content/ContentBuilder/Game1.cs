@@ -18,6 +18,7 @@ namespace ContentBuilder
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        SpriteFont spriteFont;
 
         public Game1()
         {
@@ -48,6 +49,7 @@ namespace ContentBuilder
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
+            spriteFont = Content.Load<SpriteFont>("console");
         }
 
         /// <summary>
@@ -84,6 +86,9 @@ namespace ContentBuilder
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            spriteBatch.Begin();
+            spriteBatch.DrawString(spriteFont, "CONTENT BUILDER 1.0", new Vector2(50, 50), Color.Black);
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
