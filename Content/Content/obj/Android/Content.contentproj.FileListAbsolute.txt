@@ -1,1 +1,2 @@
 C:\GitHub\Alumina\Content\Content\obj\Android\ResolveAssemblyReference.cache
+C:\GitHub\TestCo\Content\Content\obj\Android\ResolveAssemblyReference.cache

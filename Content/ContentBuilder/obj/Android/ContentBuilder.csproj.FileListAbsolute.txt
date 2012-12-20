@@ -8,3 +8,15 @@ C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\capa_terra.
 C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\Tim.png
 C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\capa_paret.png
 C:\GitHub\Alumina\Content\ContentBuilder\bin\Android\Release\Content\capa_terra.png
+C:\GitHub\TestCo\Content\ContentBuilder\obj\Android\ContentBuilder.exe
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\Tim.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\capa_paret.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\capa_terra.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\fons.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\Tim.png
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\capa_paret.png
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\capa_terra.png
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\fons.png
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\ContentBuilder.exe
+C:\GitHub\TestCo\Content\ContentBuilder\obj\Android\ResolveAssemblyReference.cache
+C:\GitHub\TestCo\Content\ContentBuilder\obj\Android\Microsoft.Xna.Framework.RuntimeProfile.txt
