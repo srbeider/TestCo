@@ -35,7 +35,7 @@ namespace ContentBuilder
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            IsMouseVisible = true;
             base.Initialize();
         }
 
@@ -88,6 +88,7 @@ namespace ContentBuilder
             // TODO: Add your drawing code here
             spriteBatch.Begin();
             spriteBatch.DrawString(spriteFont, "CONTENT BUILDER 1.0", new Vector2(50, 50), Color.Black);
+            spriteBatch.DrawString(spriteFont, "Content compiled. Please, press \"Escape\" to exit from Krakengine Content Compiler. :)", new Vector2(50, 61), Color.Black);
             spriteBatch.End();
 
             base.Draw(gameTime);
