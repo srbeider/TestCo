@@ -47,22 +47,13 @@
       <Time>2012-12-26T00:15:14.9499816+01:00</Time>
     </Item>
     <Item>
-      <Source>door.png</Source>
-      <Name>door</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door.xnb</Output>
-      <Time>2012-12-26T03:19:36.8032591+01:00</Time>
-    </Item>
-    <Item>
       <Source>door1.png</Source>
       <Name>door1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door1.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Time>2012-12-27T14:03:28.3273654+01:00</Time>
     </Item>
     <Item>
       <Source>door2.png</Source>
@@ -71,9 +62,18 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door2.xnb</Output>
-      <Time>0001-01-01T00:00:00</Time>
+      <Time>2012-12-27T14:03:28.3353659+01:00</Time>
     </Item>
-    <BuildSuccessful>false</BuildSuccessful>
+    <Item>
+      <Source>door3.PNG</Source>
+      <Name>door3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door3.xnb</Output>
+      <Time>2012-12-27T14:03:28.3383661+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{95CD10CF-D720-4B1D-8220-C1E66D2F7E49}</ContentProjectGUID>
       <TargetPlatform>Windows</TargetPlatform>

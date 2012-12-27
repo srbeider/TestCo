@@ -86,13 +86,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="door1.png">
+    <Compile Include="door1.PNG">
       <Name>door1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="door2.png">
+    <Compile Include="door2.PNG">
       <Name>door2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="door3.PNG">
+      <Name>door3</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

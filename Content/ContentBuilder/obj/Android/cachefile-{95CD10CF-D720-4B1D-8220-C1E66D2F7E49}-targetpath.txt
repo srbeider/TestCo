@@ -3,10 +3,11 @@ Content\capa_paret.xnb
 Content\capa_terra.xnb
 Content\fons.xnb
 Content\console.xnb
-Content\door.xnb
+Content\door1.xnb
+Content\door2.xnb
+Content\door3.xnb
 Content\Tim.png
 Content\capa_paret.png
 Content\capa_terra.png
 Content\fons.png
 Content\console.spritefont
-Content\door.png
