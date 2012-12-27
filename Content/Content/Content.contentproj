@@ -86,11 +86,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="door.png">
-      <Name>door</Name>
+    <Compile Include="door1.png">
+      <Name>door1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="door2.png">
+      <Name>door2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
