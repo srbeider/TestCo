@@ -25,3 +25,8 @@ C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\console.spri
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door1.xnb
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door2.xnb
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door3.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_lp.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_start.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_stop.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.wma

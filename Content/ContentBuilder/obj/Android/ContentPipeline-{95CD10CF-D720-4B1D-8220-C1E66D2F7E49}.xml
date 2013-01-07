@@ -73,6 +73,43 @@
       <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door3.xnb</Output>
       <Time>2012-12-27T14:03:28.3383661+01:00</Time>
     </Item>
+    <Item>
+      <Source>audio\door_lp.wav</Source>
+      <Name>audio\door_lp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_lp.xnb</Output>
+      <Time>2013-01-07T21:10:20.590153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\door_start.mp3</Source>
+      <Name>audio\door_start</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_start.xnb</Output>
+      <Time>2013-01-07T21:10:20.5931532+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\door_stop.mp3</Source>
+      <Name>audio\door_stop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_stop.xnb</Output>
+      <Time>2013-01-07T21:10:20.5961533+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\SeeWhatIveBecome.mp3</Source>
+      <Name>audio\SeeWhatIveBecome</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.xnb</Output>
+      <Extra>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.wma</Extra>
+      <Time>2013-01-07T21:10:20.6051539+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{95CD10CF-D720-4B1D-8220-C1E66D2F7E49}</ContentProjectGUID>

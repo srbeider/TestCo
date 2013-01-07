@@ -102,6 +102,28 @@
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="audio\door_lp.wav">
+      <Name>door_lp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="audio\door_start.mp3">
+      <Name>door_start</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="audio\door_stop.mp3">
+      <Name>door_stop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="audio\SeeWhatIveBecome.mp3">
+      <Name>SeeWhatIveBecome</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>MGSongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
