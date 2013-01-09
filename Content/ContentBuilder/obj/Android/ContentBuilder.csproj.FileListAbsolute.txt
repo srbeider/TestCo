@@ -28,5 +28,6 @@ C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\door3.xnb
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_lp.xnb
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_start.xnb
 C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\door_stop.xnb
-C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.xnb
-C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.wma
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\xnb_music.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\song_music.xnb
+C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\song_music.wma

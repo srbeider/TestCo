@@ -118,10 +118,17 @@
       <Importer>Mp3Importer</Importer>
       <Processor>MGSoundEffectProcessor</Processor>
     </Compile>
-    <Compile Include="audio\SeeWhatIveBecome.mp3">
-      <Name>SeeWhatIveBecome</Name>
+    <Compile Include="audio\xnb_music.mp3">
+      <Name>xnb_music</Name>
       <Importer>Mp3Importer</Importer>
-      <Processor>MGSongProcessor</Processor>
+      <Processor>MGSoundEffectProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="audio\song_music.mp3">
+      <Name>song_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />

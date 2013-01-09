@@ -101,14 +101,23 @@
       <Time>2013-01-07T21:10:20.5961533+01:00</Time>
     </Item>
     <Item>
-      <Source>audio\SeeWhatIveBecome.mp3</Source>
-      <Name>audio\SeeWhatIveBecome</Name>
+      <Source>audio\xnb_music.mp3</Source>
+      <Name>audio\xnb_music</Name>
       <Importer>Mp3Importer</Importer>
-      <Processor>MGSongProcessor</Processor>
+      <Processor>MGSoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.xnb</Output>
-      <Extra>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\SeeWhatIveBecome.wma</Extra>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\xnb_music.xnb</Output>
       <Time>2013-01-07T21:10:20.6051539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>audio\song_music.mp3</Source>
+      <Name>audio\song_music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\song_music.xnb</Output>
+      <Extra>C:\GitHub\TestCo\Content\ContentBuilder\bin\Android\Release\Content\audio\song_music.wma</Extra>
+      <Time>2013-01-09T21:02:15.8668397+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

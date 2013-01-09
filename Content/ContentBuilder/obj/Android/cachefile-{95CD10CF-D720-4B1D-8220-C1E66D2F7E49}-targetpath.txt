@@ -9,8 +9,9 @@ Content\door3.xnb
 Content\audio\door_lp.xnb
 Content\audio\door_start.xnb
 Content\audio\door_stop.xnb
-Content\audio\SeeWhatIveBecome.xnb
-Content\audio\SeeWhatIveBecome.wma
+Content\audio\xnb_music.xnb
+Content\audio\song_music.xnb
+Content\audio\song_music.wma
 Content\Tim.png
 Content\capa_paret.png
 Content\capa_terra.png
